@@ -1,0 +1,17 @@
+body{
+    background-color:lightpink;
+    align-content: center; 
+    text-align: center;
+} 
+#page{
+    align-items: center;
+    margin-left: 420px;
+    display: flex;
+    border:2px dashed black;
+    background-color: aquamarine;
+    border-radius: 20%;
+    height: 400px;
+    width: 300px;
+    margin-top:100px;
+    padding-left: 120px;
+}
